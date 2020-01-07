@@ -1,0 +1,3 @@
+RewriteEngine On 
+RewriteCond %{HTTPS} off 
+RewriteRule (.*) localhost/office/well-known%{REQUEST_URI}

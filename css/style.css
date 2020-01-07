@@ -1,0 +1,1155 @@
+body{
+    margin:0px;
+    padding:0px;
+    font-family: 'Roboto', sans-serif!important;
+
+}
+a{
+    text-decoration: none;
+}
+.header-button_div_Add img{
+    width: 100%;
+    height: auto;
+}
+
+/*Above Header Content Start*/
+.header_bg
+{
+    background-color: #101010;
+    color: white;
+}
+.email_id_left h4
+{
+    float: left;
+    /*font-size: 14px;*/
+}
+.email_id_left h4
+{
+    float: left;
+}
+.mobile_number_right a
+{
+    float: right;
+    margin-top: 10px;
+    padding-left: 10px;
+    font-size: 18px;
+    color: white;
+    text-decoration: none;
+}
+.mobile_number_right a:hover
+{
+    text-decoration: none;
+    color: white;
+}
+/*Above Header content end*/
+#navb_bar_div{
+    border: 0px;
+    background-color: white;
+    border-radius: 0px;
+    margin-bottom: 0;
+    height: 50px;
+}
+#stle_div{
+    padding: 0px!important;
+}
+#nav_right_div{
+    float: right;
+    margin-top:10px;
+}
+#first_add_button{
+    background-color: #49da35!important;
+    border-radius: 35px;
+    color: white;
+    height: 45px;
+    width: 135px;
+    text-align: center;
+}
+#nav_right_div li{
+    position: relative;
+    display: block;
+    z-index: 100;
+        background: white;
+}
+#nav_right_div li a{
+    font-weight: 600;
+    font-size: 16px;
+    color: #101010;
+}
+#logo_div img{
+    width: 56px;
+    margin-top: -12px;
+    position: absolute;
+    z-index: 1000;
+}
+.slider_div{
+    margin-top: 13px;
+}
+.from_div h4{
+    font-size: 28px;
+    margin-bottom: 10px;
+    color: white;
+}
+
+.how_to_need p a{
+    
+    background: #252525;
+    padding: 8px;
+    color: white;
+    font-size: 15px;
+
+}
+.yourtube_link h4 a{
+    color:white;
+   text-decoration:none;
+}
+.yourtube_link h4{
+    background: #e30000;
+    width: 137px;
+    padding: 8px;
+    text-align: center;
+    color: white;
+}
+.from_div{
+        position: absolute;
+    z-index: 10;
+    right: 6%;
+    top: 19%;
+}
+.from_header_from{
+    
+    background: #fff;
+    padding: 15px;
+    text-align: center;
+    
+    
+}
+.from_div_style{
+        margin-top: -33px;
+}
+.from_div_style form input{
+        padding: 8px;
+    width: 215px;
+    border-radius: 2px;
+    border: 1px solid #d0d0d0;
+}
+.from_div_style p{
+    font-size:10px;
+}
+.class_partner_p_tag{
+    font-size:11px;
+}
+.from_div_styleas{
+    margin-top: -10px;
+}
+.from_div_styleas form input{
+     padding: 8px;
+    width: 215px;
+    border-radius: 2px;
+    border: 1px solid #d0d0d0;
+}
+.btun_desing{
+    background: #101010;
+    border: 0;
+    padding: 10px;
+    width: 109px;
+    color: white;
+    margin:10px;
+}
+#silder_size_div{
+    height: 650px;
+
+}
+#silder_size_div img{
+    width: 100%;
+    height: 650px;
+}
+.about_ud_tittla {
+    text-align: center;
+    margin-bottom: 35px;
+}
+
+.about_ud_tittla img{
+        width: 150px;
+}
+.about_ud_tittla  h4{
+    font-weight: 600;
+    font-size: 30px;
+    margin-top: 25px;
+    color: #101010;
+}
+.images_about_us{
+    text-align: center;
+}
+
+.img_div img{
+    width: 304px;
+}
+.about_us_div_style{
+    margin-bottom: 5%;
+    margin-top: 3%;
+}
+.service_top_banner{
+    background-color: #f9f9f9;
+
+}
+.main-box_style{
+   background-color: white;
+   box-shadow: 1px 1px 20px -5px; 
+   padding: 30px;
+   margin: 14px;
+   height: 350px;
+}
+.main_style_containt{
+    text-align: center;
+}
+
+.main_style_containt img{
+    width: 100px;
+    margin-top: 2%;
+}
+.tittal_name_box h5{
+    text-align: center;
+    font-size: 21px;
+    color: black;
+    margin-top: 10px;
+}
+#col-style_div{
+    margin-bottom: 5%;
+    margin-top: 5%;
+
+}
+.wye_emi{
+    background-color: #cecece36;
+    color: black;
+}
+.main_div_eme{
+    background: white;
+    padding: 21px;
+    margin: 10px;
+    box-shadow: 1px 1px 20px -10px black;
+    border-bottom: 4px solid black;
+    height: 310px;
+ 
+
+}
+
+#modal_size_div{
+    width: 600px;
+}
+.submit_button{
+    display: flex;
+}
+.submit_button button{
+        color: white;
+    margin: auto;
+    background: red;
+    width: 145px;
+    border-radius: 0;
+    border: 0;
+}
+.contact_main {
+    width: 80%;
+    margin: auto;
+    padding: 1%;
+    background: white;
+    margin-top: 2%;
+}
+.contact_main_top {
+    margin-bottom: 3%;
+}
+.contact_main_top h4 {
+    font-size: 30px;
+}
+.contact_main_top h4 b {
+    font-size: 40px;
+}
+.contact_main_top p {
+    font-size: 15px;
+}
+.contact_main_left {
+    background-color: #fff;
+    padding: 4%;
+}
+.contact_main_left form >.form-group input {
+    height: 40px;
+    border-radius: 0px;
+}
+.contact_submit {
+    margin-top: 5%;
+}
+.contact_submit button {
+    padding: 1.5% 11%;
+    border-radius: 0px;
+    background: #101010;
+    border-color: transparent;
+}
+.contact_right_address {
+    background: #101010;
+    padding: 4%;
+    min-height: 336px;
+}
+.contact_right_address h4 {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 3%;
+    margin-top: 0;
+    color: white;
+}
+.contact_right_address ul {
+    padding-left: 0;
+}
+.contact_right_address ul li {
+    color: #ffffff;
+    margin-bottom: 4%;
+    list-style: none;
+}
+.contact_right_address ul li span {
+    font-weight: bold;
+    font-size: 14px;
+    color: #fff;
+}
+#contat_us_pages{
+    background: whitesmoke;
+    margin-top: 12px;
+}
+.contact_main_col_top{
+    padding: 0px;
+}
+.contact_main_left_col{
+    padding: 0px;
+}
+/*our clients css*/
+.main-emaimags img{
+    margin: auto;
+    width: 61px;
+    display: flex;
+    margin-top: 35px;
+
+}
+
+.our_clint_images_tag{
+    text-align: center;
+}
+.our_clint_images_tag img{
+    width: 60px;
+    background-color: #BDC3C7 !important;
+
+}
+
+.tital_our_clint_name h3{
+    text-align: center;
+font-weight: 400;
+font-size: 20px;
+color: #fff;
+
+}
+@media screen and (min-width: 468px)
+{
+    .main_main_our_clint
+    {
+        margin-bottom: 40px;
+    }
+}
+/*end*/
+
+.downlode_app_now{
+background: linear-gradient(to right, #8e2de2, #4a00e0);
+
+margin-top: 0px !important;
+}
+
+.mobile_imf img{
+        width: 433px;
+    margin-top: 50px;
+    right: 9px;
+    margin-left: 99px;
+}
+
+.tittal_div_s h4{
+    font-size: 48px;
+    color: white;
+    margin-top: 15%;
+}
+
+.footer_divbg {
+    background-color: black;
+    padding: 10px;
+    padding-top: 25px;
+    border-top: 4px solid #101010;
+
+}
+.titital_sfootter ul {
+        list-style-type: none;
+    padding-left: 0;
+    line-height: 32px;
+
+}
+.titital_sfootter ul li a{
+color: #737373;
+text-decoration: none;
+}
+
+.footer_footer_div{
+    background: #0d0d0d;
+    padding: 5px;
+    color: white;
+    text-align: center;
+}
+.footer_s h4{
+    color: #737373;
+}
+.titital_sfootter p{
+    color: #737373;
+}
+.titital_sfootter a{
+    margin-top: 10px;
+    padding-left: 15px;
+    color: white;
+    text-decoration: none;
+}
+.titital_sfootter a:hover{
+    text-decoration: none;color: white;
+}
+
+.header_tittla_form h1{
+    padding: 14px;
+    background: #101010;
+    font-size: 24px;
+    text-align: center;
+    color: white;
+    font-weight: 400;
+    margin: 0;
+}
+.cols_pag_bg{
+    background-color: #101010;
+padding-top: 40px;
+    padding-bottom: 45px;
+}
+.slider_bottom span{
+        background: #252525;
+    padding: 14px;
+    color: white;
+    border-radius: 35px;
+    font-size: 18px;
+    text-align: center;
+}
+.slider_bottom{
+    text-align: center;
+}
+.slider_bottom h4{
+    font-size: 24px;
+    color: white;
+}
+
+h2 {
+    color: #333;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: "Roboto", sans-serif;
+    font-weight: bold;
+    position: relative;
+    margin: 30px 0 60px;
+}
+h2::after {
+    content: "";
+    width: 100px;
+    position: absolute;
+    margin: 0 auto;
+    height: 3px;
+    background: #101010;
+    left: 0;
+    right: 0;
+    bottom: -10px;
+}
+.col-center {
+    margin: 0 auto;
+    float: none !important;
+}
+
+.carousel .item {
+    color: #999;
+    font-size: 14px;
+    text-align: center;
+    overflow: hidden;
+    min-height: 215px;
+}
+.carousel .item .img-box {
+    width: 135px;
+    height: 135px;
+    margin: 0 auto;
+    padding: 5px;
+    border: 1px solid #ddd;
+    border-radius: 50%;
+    margin-top: 33px;
+}
+.carousel .img-box img {
+    width: 100%;
+    height: 100%;
+    display: block;
+    border-radius: 50%;
+}
+.carousel .testimonial {
+    padding: 30px 0 10px;
+    font-size: 16px;
+    width: 563px;
+    text-align: center;
+    display: flex;
+    margin: auto;
+    margin-bottom: 20px;
+}
+.carousel .overview {   
+    font-style: italic;
+        padding: 43px;
+    padding-top: 0
+}
+.carousel .overview b {
+    text-transform: uppercase;
+    color: #101010;
+}
+.carousel .carousel-control {
+    width: 40px;
+    height: 40px;
+    margin-top: -20px;
+    top: 50%;
+    background: none;
+}
+.carousel-control i {
+    font-size: 15px;
+    line-height: 42px;
+    position: absolute;
+    display: inline-block;
+    color: rgba(0, 0, 0, 0.8);
+    text-shadow: 0 3px 3px #e6e6e6, 0 0 0 #000;
+}
+
+.carousel-indicators li, .carousel-indicators li.active {
+    width: 10px;
+    height: 10px;
+    margin: 1px 3px;
+    border-radius: 50%;
+    border:1px; 
+}
+.carousel-indicators li {   
+    background: #999;
+    border-color: transparent;
+    box-shadow: inset 0 2px 1px rgba(0,0,0,0.2);
+}
+.carousel-indicators li.active {    
+    background: #555;       
+    box-shadow: inset 0 2px 1px rgba(0,0,0,0.2);
+}
+.carousel-control.left{
+    background-image: none!important;
+}
+.carousel-control.right{
+    background-image: none!important;   
+}
+
+.totatl_contting_num{
+    text-align: center;
+    margin-top: 21px;
+    font-size: 33px;
+    color: white;
+}
+#cont_value{
+    background-color: #101010;
+    color: white;
+    padding: 10px;
+
+}
+
+.tittkla_name h2{
+    font-size: 20px;
+}
+
+.slider_bottom h2{
+    color: white;
+    font-weight: 600;
+    margin: 33px;
+    font-size: 36px;
+}
+.slider_bottom p{
+    text-align: center;
+    font-size: 19px;
+    color: white;
+}
+.tittla_name_div_corparate_pro h1{
+       font-size: 45px;
+    color: #e22028;
+    text-align: center;
+    margin-bottom: 20px;
+   margin-top: 30px;
+    font-weight: 600;
+}
+
+.tittla_name_div_corparate_pro p{
+    font-size: 18px;
+    text-align: center;
+    padding: 10px;
+    padding-bottom: 30px;
+
+}
+
+.tiitl_name_simg{
+
+}
+.tiitl_name_simg img{
+        margin: auto;
+    width: 22%;
+    display: flex;
+}
+.tiitl_name_simsg img{
+ width: 30%;
+ display: flex;
+ margin: auto;
+}
+
+.tiitla_pro_name h4{
+    text-align: center;
+    padding: 20px;
+
+}
+#ccol_padimng-pro{
+    margin-bottom: 10%;
+    margin-top: 5%;
+}
+.div_tittal_our_service ul li{
+    text-align: left;
+    font-size: 17px;
+    padding: 8px;
+}
+.tittal_manw_our_services h1{
+    text-align: center;
+    font-size: 45px;
+    color: white;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.doS img{
+    width: 30%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+
+}
+.about_us_banner_img img{
+    width: 100%;
+    height: 500px;
+    margin-top: 9px;   
+}
+.tittal_div_about_us_tittal_name h1{
+    margin-bottom: 30px;
+    padding-top: 35px;
+    text-align: center;
+    margin-top: 0px;
+    color: red;
+    font-size: 46px;
+}
+.main_tittal_icon{
+        display: flex;
+}
+.main_tittal_icon i{
+        font-size: 46px;
+    margin: auto;
+    color: red;
+    margin-bottom: 20px;
+    margin-top: 16px;
+}
+.tittal_tab_style_about_us{
+        text-align: center;
+}
+.list_about_us_tittal_av ul li{
+        line-height: 2;
+    font-size: 17px;
+
+}
+.tittal_div_about_us_tittal_name p{
+        font-size: 17px;
+    text-align: center;
+    display: flex;
+    margin: auto;
+    margin-bottom: 18px;
+}
+
+.mobile_imags_dos img{
+    width: 55%;
+    margin-top:30px;
+
+}
+
+.btun_desingas{
+        background: #101010;
+    border: 0;
+    padding: 10px;
+    width: 213px;
+    margin: 15px;
+    color: white;
+}
+.tiitla_pros_name h4{
+    color: black;
+    font-size: 25px;
+    margin-bottom: 15px;
+}   
+.maib_partner {
+    margin-bottom: 10%;
+}
+.maib_partner h5{
+    line-height: 1.8;
+
+}
+.emargency_service h1{
+text-align: center;
+    font-size: 49px;
+    font-weight: 800;
+    color: #101010;
+    
+
+}
+.emargency_service p{
+    text-align: center;
+    font-size: 18px;
+    margin: 10px;
+}
+
+.about_ud_tittlas h4{
+text-align: center;
+    font-weight: 00;
+    font-size: 51px;
+    color: #101010;
+    margin-bottom: 34px;
+    font-family: unset;
+}
+.about_ud_tittlas p{
+text-align: center;
+    font-size: 16px;
+    margin-bottom: 26px;
+}
+.city_tab ul li{
+    list-style-type: none;
+    line-height: 1.3;
+    color:#909090;
+    padding-top:12px;
+}
+.nav_bar_border{
+    border-color:transparent!important;
+}
+.footer_trem_and_condication ul li{
+    display: inline-block;
+    position: relative;
+    padding-left: 10px;
+    color: white;
+
+}
+.footer_trem_and_condication ul li a{
+    color: white;
+    text-decoration: none;
+}
+.header_tittal_tab h3{
+    color: white;
+    background: #c5c5c5;
+    padding: 14px;
+    text-align: center;
+}
+.tittal_test_s{
+      width: 1000px;
+    position: absolute;
+    z-index: 100;
+    top: 33%;
+    left: 14%;
+    color: white;
+    font-weight: 600;
+}
+
+.tittal_test_s h1
+{
+    font-size: 45px;
+    position: absolute;
+  right:  150px;
+  top: 100px;
+}
+
+
+.tittal_test_s button{
+    display: flex;
+    margin: auto;
+    margin-top: 35%;
+    margin-right: 50%;
+    width: 300px;
+    padding: 10px;
+    background: #f9ba03;
+    border: navajowhite;
+    color: white;
+    border-radius: 54px;
+}
+.tittal_test_s a:hover{
+    text-decoration: none;
+    color: white;
+}
+.tittal_test_s a{
+    color: white;
+    text-decoration: none;
+    letter-spacing: 5px;
+    padding-left: 20px;
+}
+.tittal_test_s p{
+    letter-spacing: 2.1px;
+    font-size: 23px;
+    text-align: ;
+    text-align: center;
+    color: #dedede;
+}
+.corporta_goaid_images img{
+    width: 100%;
+    height: 650px;
+    margin-top: 10px;
+}
+
+#container_padding_goaid{
+    padding: 0px;
+}
+
+.tiitel_div_style_how_words h1{
+    line-height: 1.5;
+    font-weight: 500;
+    margin-bottom: 30px;
+    margin-left: -0.05em;
+    color: #101010;
+    font-size: 63px;
+    text-align: center;
+}
+.tiitla_worls h1{
+    text-align: center;
+    font-size: 20px;
+}
+.how_works_img img{
+    width: 100%;
+    height:140px;
+}
+.sing_up_Tittal_div p{
+    text-align: center;
+    font-size: 15px;
+}
+.tittla_header_how_to_works{
+    background-color: #fbfbfb00;
+    box-shadow: 1px 1px 20px -14px #00000036;
+    padding: 15px;
+    margin-top: 2px;
+    height: 263px;
+}
+.tiitel_div_style_how_words h1
+{
+    margin-bottom: 2px;
+    font-size: 59px;
+    font-weight: 600;
+}
+.tiitel_div_style_how_words p{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 26px;
+    line-height: 1.385;
+    margin-bottom: 40px;
+    opacity: 0.8;
+    letter-spacing: 3.1px;
+    text-align: center;
+}
+
+.icon_goiad{
+    text-align: center;
+}
+.icon_goiad img{
+    width: 100%;
+}
+
+.main_ttial_style_how h1{
+    margin-top: 10px;
+    font-size: 
+}
+.main_ttial_style_how h6{
+     font-size: 19px;
+    color: #888888;
+    font-weight: 400;
+}
+
+
+#mian_goaid_difs{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.now_user_from_div{
+        background: blue;
+        margin-top: 6%;
+}
+
+.con_tact_us{
+    background-color: white;
+    padding: 15px;
+    margin-bottom: 5%;
+    margin-top: 5%;
+    border-radius: 10px;
+}
+.now_user_tittal_dia h1{
+    margin-top: 25%;
+    color: white;
+    font-size: 45px;
+    text-align: center;
+}
+.now_user_tittal_dia h5{
+    text-align: center;
+    font-size: 20px;
+    color: white;
+}
+
+#butoon_WS{
+        color: white;
+    border: none;
+    width: 115px;
+    background: #030623;
+    border-radius: 0;
+
+}
+#sidler_sixe .item>img{
+    width: 100%;
+    height: 500px;
+}
+.sider_taxx{
+    width: 400px;
+    position: absolute;
+    z-index: 100;
+    top: 45%;
+    left: 5%;
+    color: white;
+    font-weight: 600;
+text-align: justify;
+}
+.tittal_div_stule{
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 4%;
+}
+.cal_padding img{
+    width: 100%;
+}
+.car_banner_text_sldier{
+    text-align: center;
+}
+.banner_sides button{
+    background-color: white;
+    border-radius: 50px;
+    border: 2px solid red;
+    padding: 10px; 
+    display: flex;
+    margin:auto; 
+}
+.main_gallery_div{
+    margin-bottom: 5%;
+}
+
+.banner_sides{
+    text-align: center;
+}
+
+
+.banner_sides p{
+    display: inline-block;
+    border: 2px solid #007af3;
+    padding: 10px;
+    width: 169px;
+    font-size: 17px;
+    border-radius: 43px;
+    color: black;
+}
+.banner_sides p a{
+    text-decoration: none;
+}
+
+#bag_s{
+    background: #f7f7f7;
+    margin-bottom: 8%;
+    margin-top: 8%;
+    padding: 13px;
+}
+.button_div_send_to_eqr p{
+        background: #4188f7;
+    display: inline-block;
+    padding: 12px;
+    color: white;
+    margin-top: 27px;
+    width: 198px;
+    text-align: center;
+    border-radius: 35px;
+}
+.button_div_send_to_eqr p a{
+    color: white;
+    text-decoration: none;
+}
+#bg_button_color{
+ background: #101010;
+ border:none;
+}}
+@media screen and (max-width: 320px){
+        .from_div {
+            position: absolute;
+            z-index: 10;
+            right: 9%;
+            top: 19%;
+        }
+}
+
+@media screen and (max-width: 767px){
+    .mobile_imf img{
+    width: 102%;
+    margin-top: 50px;
+    right: 9px;
+    margin-left: 0;
+}
+.from_div_style {
+    margin-top: -21px;
+}
+.from_header_from {
+    background: #fff;
+    padding: 1px;
+    text-align: center;
+}
+.slider_bottom h4 {
+    font-size: 16px;
+    color: white;
+}
+.icon_goiad img {
+    width: 48%;
+}
+.now_user_tittal_dia h1 {
+    margin-top: 13%;
+    color: white;
+    font-size: 24px;
+    text-align: center;
+}
+.form_tittlapcone h1{
+        font-size: 22px;
+    text-align: center;
+}
+
+.carousel .testimonial {
+    padding: 30px 0 10px;
+    font-size: 16px;
+    width: 100%;
+    text-align: center;
+    display: flex;
+    margin: auto;
+    margin-bottom: 20px;
+}
+.slider_bottom span {
+    background: #252525;
+    padding: 1px;
+    color: white;
+    /* width: 107px; */
+    border-radius: 35px;
+    font-size: 15px;
+    text-align: center;
+    padding-left: 12px;
+    /* padding-top: 0px; */
+    padding-right: 10px;
+}
+.btun_desingas {
+    background: #101010;
+    border: 0;
+    padding: 10px;
+    width: 213px;
+    margin: 6px;
+    color: white;
+}
+.form-group {
+    margin-bottom: 8px;
+}
+.from_div {
+    position: absolute;
+    z-index: 10;
+    right: 18%;
+    top: 15%;
+}
+#sidler_sixe .item>img {
+    height: 316px;
+    margin-top: 18px;
+}
+.sider_taxx {
+    width: 286px;
+    position: absolute;
+    z-index: 100;
+    top: 16%;
+    left: 11%;
+    color: white;
+    font-weight: 600;
+    text-align: justify;
+}
+.attach_file_div h1{
+    font-size: 21px;
+}
+.car_banner_text_sldier h1{
+    font-size: 25px;
+    margin-bottom: 5%;
+}
+.tittal_div_stule h1{
+    font-size: 21px;
+}
+.tittal_test_s {
+    width: 297px;
+    position: absolute;
+    z-index: 100;
+    top: 21%;
+    left: 9%;
+    color: white;
+    font-weight: 600;
+}
+.tittal_test_s h1 {
+    font-size: 23px;
+    text-align: center;
+}
+.tittal_test_s p {
+    letter-spacing: 2.1px;
+    font-size: 12px;
+    text-align: ;
+    text-align: center;
+    color: #dedede;
+}
+.corporta_goaid_images img {
+    width: 100%;
+    height: 400px;
+    margin-top: 10px;
+}
+.tiitel_div_style_how_words h1 {
+    line-height: 1.5;
+    font-weight: 500;
+    margin-bottom: 16px;
+    margin-left: -0.05em;
+    color: #483D8B;
+    font-size: 46px;
+    text-align: center;
+}
+.tiitel_div_style_how_words h1 {
+    line-height: 1.5;
+    font-weight: 500;
+    margin-bottom: 16px;
+    margin-left: -0.05em;
+    color: #483D8B;
+    font-size: 28px;
+    text-align: center;
+}
+.tiitel_div_style_how_words p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    line-height: 1.385;
+    margin-bottom: 40px;
+    opacity: 0.8;
+    letter-spacing: 3.1px;
+    text-align: center;
+}
+.main_ttial_style_how h1 {
+    text-align: center;
+    font-size: 26px;
+    margin-top: 17px;
+}
+.main_ttial_style_how h6 {
+    font-size: 19px;
+    color: #888888;
+    font-weight: 400;
+    text-align: center;
+}
+
+
